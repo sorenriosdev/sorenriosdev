@@ -49,8 +49,6 @@
   <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?logo=microsoft-sql-server&logoColor=white">     </a>
   <br>
 
-<br> 
-
 - **Frameworks and Libraries**:
 
      <a href="https://github.com/Bouaskaoun"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
@@ -58,18 +56,24 @@
     <a href="https://github.com/Bouaskaoun"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
     ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white)
-    
-<br>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=tensorflow&logoColor=white"></a>
 
+- **Tools and Technologies**:
+  <br>
+  <br>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23121011.svg?logo=github&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=jupyter&logoColor=white"></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%232496ED.svg?logo=docker&logoColor=white"></a>
+  <br>
 
-- **Softwares and Cloud**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+- **Cloud & DevOps**:
+  <br>
+  <br>
+  <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?logo=google-cloud&logoColor=white"></a>
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux%20-%23FCC624.svg?logo=linux&logoColor=black"></a>
+  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman%20-%23FF6C37.svg?logo=postman&logoColor=white"></a>
 
 <br>
 

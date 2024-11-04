@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Soren <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello :earth_americas: , I'm Soren <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Student;Data+Science;Backend;Machine+Learning" /></a>
 </p>
@@ -15,7 +15,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ I currently work in retail operations and their automation. 😎 <br>
+✔ I currently work in retail operations and their automation. :computer: <br>
 ✔ I'm learning data science and machine learning<br>
 ✔ I like programming with java, c# and python<br>
 ✔ I am learning German and improving my English.<br>
@@ -35,7 +35,7 @@
   <br>
   <br>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java%20-%23ED8B00.svg?logo=openjdk&logoColor=white"></a>
+  <a href="https://www.java.com/"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
   <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <br>
@@ -63,7 +63,6 @@
   <br>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23121011.svg?logo=github&logoColor=white"></a>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=jupyter&logoColor=white"></a>
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%232496ED.svg?logo=docker&logoColor=white"></a>
   <br>

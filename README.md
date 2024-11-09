@@ -58,7 +58,6 @@
     <a href="https://github.com/Bouaskaoun"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
     ![Spring](http://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white)
     ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white)
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=tensorflow&logoColor=white"></a>
 
 - **Tools and Technologies**:
   <br>
@@ -80,7 +79,7 @@
 <br>
 
 <!-----------------------Github Stats----------------------------->
-<details open>
+<!--<details open>
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
@@ -97,7 +96,7 @@
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorenriosdev&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true&count_private=true&include_all_commits=true"/>
   </a>
 </p>
-</details>
+</details> -->
 <br>
 -----
  

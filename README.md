@@ -1,6 +1,6 @@
 <h1 align="center">Hello :earth_americas: , I'm Soren <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Student;Backend+Development;Data+Science;Machine+Learning" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Backend+Development;Machine+Learning" /></a>
 </p>
 
 <br>
@@ -109,7 +109,7 @@
 
 ---
 
-## ## 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
 <div align="center">
 
@@ -152,10 +152,7 @@
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="mailto:soren.rios@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/sorenrios">
+  <a href="https://www.linkedin.com/in/soren-rios-bb191923a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/sorenriosdev">

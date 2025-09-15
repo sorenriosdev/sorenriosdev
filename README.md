@@ -78,6 +78,89 @@
 <br>
 <br>
 
+<!-- new changes -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+### [Project Name 1](https://github.com/sorenriosdev/project1)
+**Backend API with Java Spring Boot**
+- RESTful API with PostgreSQL integration
+- JWT Authentication & Role-based authorization
+- Docker containerization and GCP deployment
+
+### [Project Name 2](https://github.com/sorenriosdev/project2)
+**Data Analysis Dashboard**
+- Python (Pandas, NumPy, Matplotlib)
+- Interactive visualizations with retail operations data
+- Machine learning models for sales prediction
+
+### [Project Name 3](https://github.com/sorenriosdev/project3)
+**Automation Bot for Retail Operations**
+- C# .NET Core application
+- Google Cloud Platform integration
+- Automated inventory management system
+
+</div>
+
+<br>
+
+---
+
+## 📊 GitHub Statistics
+
+<details open>
+<summary><b>📈 GitHub Stats</b></summary>
+<br>
+<p align="center">
+  <a href="https://github.com/sorenriosdev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sorenriosdev&show_icons=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Soren's GitHub Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sorenriosdev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorenriosdev&layout=compact&hide_border=true&title_color=3B82F6&text_color=ffffff&bg_color=0D1117&count_private=true&include_all_commits=true&langs_count=8" alt="Most Used Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sorenriosdev">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sorenriosdev&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+  </a>
+</p>
+</details>
+
+<br>
+
+---
+
+## 📫 Connect with me
+
+<p align="center">
+  <a href="mailto:soren.rios@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/sorenrios">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sorenriosdev">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<br>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sorenriosdev&color=3B82F6&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <em>"Always learning, always coding, always improving" 💻</em>
+</p>
+
 <!-----------------------Github Stats----------------------------->
 <!--<details open>
 <summary>

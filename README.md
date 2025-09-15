@@ -6,12 +6,19 @@
 <br>
 
 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Student;Backend+Development;Data+Science;Machine+Learning" /></a>
+</p>
+<br>
+<p align="center">
   <em>
-    Hello, I am Soren Rios and I'm from Peru student in the final years of the computer science and information technology degree <br>
-    Passionate about self-learning</b>🖥️ and <b>backend web development with Java , C# and its frameworks</b>,<br>also with a strong 
+    Hello, I am Soren Rios and I'm from Peru, student in the final years of the computer science and information technology degree <br>
+    Passionate about <b>self-learning</b> 🖥️ and <b>backend web development with Java, C# and its frameworks</b>,<br>also with a strong 
     interest in data science and always looking for innovative solutions to complex problems.
   </em> 
   <br>
+</p>
+<br>
+
   <br>
   <br>
 
@@ -79,7 +86,7 @@
 <br>
 
 <!-- new changes -->
-## 🚀 Featured Projects
+<!-- 🚀 Featured Projects
 
 <div align="center">
 
@@ -103,33 +110,45 @@
 
 </div>
 
-<br>
+<br> -->
 
 ---
 
-## 📊 GitHub Statistics
+## ## 📊 GitHub Statistics
 
-<details open>
-<summary><b>📈 GitHub Stats</b></summary>
-<br>
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 📈 Overall Stats
 <p align="center">
-  <a href="https://github.com/sorenriosdev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sorenriosdev&show_icons=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Soren's GitHub Stats"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sorenriosdev&show_icons=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&bg_color=1a1b27&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats"/>
 </p>
 
+</td>
+<td width="50%">
+
+### 🔥 Contribution Streak
 <p align="center">
-  <a href="https://github.com/sorenriosdev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorenriosdev&layout=compact&hide_border=true&title_color=3B82F6&text_color=ffffff&bg_color=0D1117&count_private=true&include_all_commits=true&langs_count=8" alt="Most Used Languages"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sorenriosdev&hide_border=true&background=1a1b27&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&border_radius=10" alt="GitHub Streak"/>
 </p>
 
+</td>
+</tr>
+</table>
+
+<div style="margin: 20px 0;">
+
+### 💻 Most Used Languages
 <p align="center">
-  <a href="https://github.com/sorenriosdev">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sorenriosdev&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorenriosdev&layout=compact&hide_border=true&title_color=3B82F6&text_color=ffffff&bg_color=1a1b27&count_private=true&include_all_commits=true&langs_count=8&border_radius=10" alt="Most Used Languages"/>
 </p>
-</details>
+
+</div>
+
+</div>
 
 <br>
 
@@ -161,25 +180,6 @@
   <em>"Always learning, always coding, always improving" 💻</em>
 </p>
 
-<!-----------------------Github Stats----------------------------->
-<!--<details open>
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br>
-<p align="center">
-  <a href="https://github.com/sorenriosdev">
-    <img align="center" 
-         src="https://github-readme-stats.vercel.app/api?username=sorenriosdev&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/sorenriosdev">
-    <img align="center" 
-     height="195px" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorenriosdev&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true&count_private=true&include_all_commits=true"/>
-  </a>
-</p>
-</details> -->
 <br>
 -----
  

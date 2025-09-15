@@ -4,14 +4,9 @@
 </p>
 
 <br>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Student;Backend+Development;Data+Science;Machine+Learning" /></a>
-</p>
-<br>
 <p align="center">
   <em>
-    Hello, I am Soren Rios and I'm from Peru, student in the final years of the computer science and information technology degree <br>
+    Hello, I am Soren Rios and I'm from Peru, Computer Science and Information Technology graduate 🎓 Currently working in infrastructure. <br>
     Passionate about <b>self-learning</b> 🖥️ and <b>backend web development with Java, C# and its frameworks</b>,<br>also with a strong 
     interest in data science and always looking for innovative solutions to complex problems.
   </em> 

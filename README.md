@@ -12,7 +12,7 @@
 
 <br>
 
-## :earth_americas: About me
+## 🧠 About
 
 I'm a Computer Engineer with experience across **infrastructure, AI development, and backend systems**.
 
@@ -28,47 +28,35 @@ I'm designing a deep-tech AI startup while remaining open to high-impact enginee
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Skills
 
-<p align="center">
+**Languages:**
 
-- **Languages**:
-  
-  <br>
-  
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-  <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-  <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+<a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
 
-- **AI & Data Science**:
-  
-  <br>
-  
-  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-  <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></a>
-  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"></a>
+**AI & Data Science:**
 
-- **Backend & Databases**:
-  
-  <br>
-  
-  <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"></a>
-  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20-%23316192.svg?logo=postgresql&logoColor=white"></a>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?logo=mysql&logoColor=white"></a>
-  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-  <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></a>
+<a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"></a>
 
-- **Cloud, MLOps & DevOps**:
-  
-  <br>
-  
-  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux_(N3)-%23FCC624.svg?logo=linux&logoColor=black"></a>
-  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%232496ED.svg?logo=docker&logoColor=white"></a>
-  <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white"></a>
-  <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-%237B42BC.svg?logo=terraform&logoColor=white"></a>
-  <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white"></a>
-  <a href="#"><img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"></a>
+**Backend & Databases:**
 
-</p>
+<a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"></a>
+<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20-%23316192.svg?logo=postgresql&logoColor=white"></a>
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+<a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"></a>
+
+**Cloud, MLOps & DevOps:**
+
+<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux_(N3)-%23FCC624.svg?logo=linux&logoColor=black"></a>
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%232496ED.svg?logo=docker&logoColor=white"></a>
+<a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white"></a>
+<a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-%237B42BC.svg?logo=terraform&logoColor=white"></a>
+<a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white"></a>
+<a href="#"><img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"></a>
 
 <br>
 

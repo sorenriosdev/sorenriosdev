@@ -1,16 +1,14 @@
-<div align="center">
-  <h1 align="center">Soren Rios</h1>
-  <h3 align="center">AI | DevOps & MLOps | Infrastructure Analyst</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Azure-Certified-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure Certified"/>
-    <img src="https://img.shields.io/badge/AI--900-Certified-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="AI-900"/>
-  </p>
+# Soren Rios
+### AI | DevOps & MLOps | Infrastructure Analyst
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-Certified-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure Certified"/>
+  <img src="https://img.shields.io/badge/AI--900-Certified-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="AI-900"/>
+</p>
 
 💡 *"Building the bridge between infrastructure and intelligence. From Linux kernels to ML pipelines."*
 
 ---
-
-<br>
 
 ## 🧠 About
 
@@ -21,8 +19,6 @@ My expertise spans the full stack: from **N3-level systems administration** and 
 **Current focus:** Developing AI pipelines and models—from unsupervised learning to agent-based architectures—leveraging strong foundations in backend engineering, cloud infrastructure, and data systems.
 
 I'm designing a deep-tech AI startup while remaining open to high-impact engineering or consulting roles.
-
-<br>
 
 ---
 
@@ -58,8 +54,6 @@ I'm designing a deep-tech AI startup while remaining open to high-impact enginee
 <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white"></a>
 <a href="#"><img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"></a>
 
-<br>
-
 ---
 
 ## 🚀 Selected Work
@@ -68,8 +62,6 @@ I'm designing a deep-tech AI startup while remaining open to high-impact enginee
 **Backend APIs** • RESTful services with authentication, database integration, and cloud deployment  
 **Infrastructure Automation** • Production-ready scripts and tools for system optimization  
 **Data Pipelines** • End-to-end processing and analysis of operational datasets
-
-<br>
 
 ---
 
@@ -110,8 +102,6 @@ I'm designing a deep-tech AI startup while remaining open to high-impact enginee
 
 </div>
 
-<br>
-
 ---
 -->
 
@@ -129,5 +119,3 @@ I'm designing a deep-tech AI startup while remaining open to high-impact enginee
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sorenriosdev&color=3B82F6&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
-
-</div>

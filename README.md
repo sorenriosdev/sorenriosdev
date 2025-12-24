@@ -1,4 +1,4 @@
-<div align="center"> <h1 align="center">Soren Rios</h1> <h3 align="center"> AI | DEVOps & MLOps | Infrastructure Analyst </h3> <p align="center"> <img src="https://img.shields.io/badge/Azure-Certified-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure Certified"/> <img src="https://img.shields.io/badge/AI--900-Certified-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="AI-900"/> <img src="https://img.shields.io/badge/Focus-Infrastructure+%2B+AI-3B82F6?style=flat-square" alt="Focus"/> </p>
+<div align="center"> <h1 align="center">Soren Rios</h1> <h3 align="center"> AI | DEVOps & MLOps | Infrastructure Analyst </h3> <p align="center"> <img src="https://img.shields.io/badge/Azure-Certified-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure Certified"/> <img src="https://img.shields.io/badge/AI--900-Certified-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="AI-900"/>
 
 💡 _"Building the bridge between infrastructure and intelligence. From Linux kernels to ML pipelines."_
 

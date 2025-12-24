@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About*** :earth_americas:
+***About me*** :earth_americas:
 
 Im Computer Engineer bridging the gap between N3 Infrastructure and AI Systems.
 My expertise covers the entire stack: from deep infrastructure (N3) and database optimization  to the deployment of AI models in production. I design systems that don't just work—they scale.
@@ -67,28 +67,12 @@ I am currently designing a deep-tech AI startup, but I am open to high-impact co
 <br>
 <br>
 
-<!-- new changes -->
-<!-- 🚀 Featured Projects
+## 🚀 Selected Work
 
-<div align="center">
-
-### [Project Name 1](https://github.com/sorenriosdev/project1)
-**Backend API with Java Spring Boot**
-- RESTful API with PostgreSQL integration
-- JWT Authentication & Role-based authorization
-- Docker containerization and GCP deployment
-
-### [Project Name 2](https://github.com/sorenriosdev/project2)
-**Data Analysis Dashboard**
-- Python (Pandas, NumPy, Matplotlib)
-- Interactive visualizations with retail operations data
-- Machine learning models for sales prediction
-
-### [Project Name 3](https://github.com/sorenriosdev/project3)
-**Automation Bot for Retail Operations**
-- C# .NET Core application
-- Google Cloud Platform integration
-- Automated inventory management system
+**Unsupervised ML Model** • Clustering analysis for operational insights and anomaly detection  
+**Backend APIs** • RESTful services with authentication, database integration, and cloud deployment  
+**Infrastructure Automation** • Production-ready scripts and tools for system optimization  
+**Data Pipelines** • End-to-end processing and analysis of operational datasets
 
 </div>
 

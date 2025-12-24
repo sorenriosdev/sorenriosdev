@@ -1,8 +1,8 @@
-# Soren Rios
-### AI | DevOps & MLOps | Infrastructure Analyst
+<h1 align="center">Soren Rios</h1>
+<h3 align="center">AI | DevOps & MLOps | Infrastructure Analyst</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Azure-Certified-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure Certified"/>
+  <img src="https://img.shields.io/badge/AZ--900-Certified-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure Certified"/>
   <img src="https://img.shields.io/badge/AI--900-Certified-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="AI-900"/>
 </p>
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 About
+##:earth_americas: About me
 
 I'm a Computer Engineer with experience across **infrastructure, AI development, and backend systems**.
 

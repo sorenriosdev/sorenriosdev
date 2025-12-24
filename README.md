@@ -1,30 +1,17 @@
-<h1 align="center">Hello :earth_americas: , I'm Soren <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Backend+Development;Machine+Learning" /></a>
-</p>
+<div align="center"> <h1 align="center">Soren Rios</h1> <h3 align="center"> AI | DEVOps & MLOps | Infrastructure Analyst </h3> <p align="center"> <img src="https://img.shields.io/badge/Azure-Certified-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure Certified"/> <img src="https://img.shields.io/badge/AI--900-Certified-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="AI-900"/> <img src="https://img.shields.io/badge/Focus-Infrastructure+%2B+AI-3B82F6?style=flat-square" alt="Focus"/> </p>
+
+💡 _"Building the bridge between infrastructure and intelligence. From Linux kernels to ML pipelines."_
+
+---
 
 <br>
-<p align="center">
-  <em>
-    Hello, I am Soren Rios and I'm from Peru, Computer Science and Information Technology graduate 🎓 Currently working in infrastructure. <br>
-    Passionate about <b>self-learning</b> 🖥️ and <b>backend web development with Java, C# and its frameworks</b>,<br>also with a strong 
-    interest in data science and always looking for innovative solutions to complex problems.
-  </em> 
-  <br>
-</p>
-<br>
 
-  <br>
-  <br>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About*** :earth_americas:
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-✔ I currently work in retail operations and their automation. :computer: <br>
-✔ I'm learning data science and machine learning<br>
-✔ I like programming with java, c# and python<br>
-✔ I am learning German and improving my English.<br>
-✔ I like to use GCP for my automated projects and bots 😉<br>
-✔ Never neglect your health! I like to ride a bike, swim and spend time with my pet.😎
+Im Computer Engineer bridging the gap between N3 Infrastructure and AI Systems.
+My expertise covers the entire stack: from deep infrastructure (N3) and database optimization  to the deployment of AI models in production. I design systems that don't just work—they scale.
+Primary focus: Leveraging backend and infrastructure knowledge to build AI pipelines and models, facilitating the transition from traditional development to modern operations.
+I am currently designing a deep-tech AI startup, but I am open to high-impact consulting or engineering roles.
 <br>
 <br>
 <br>

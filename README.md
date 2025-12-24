@@ -79,7 +79,7 @@ I am currently designing a deep-tech AI startup, but I am open to high-impact co
 <br> -->
 
 ---
-
+``
 ### 📊 GitHub Statistics
 
 <div align="center">
@@ -119,7 +119,7 @@ I am currently designing a deep-tech AI startup, but I am open to high-impact co
 <br>
 
 ---
-
+``
 ## 📫 Connect with me
 
 <p align="center">

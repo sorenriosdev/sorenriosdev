@@ -12,14 +12,13 @@
 
 ##:earth_americas: About me
 
-I'm a Computer Engineer with experience across **infrastructure, AI development, and backend systems**.
+I am a computer engineer with experience in **infrastructure, AI development, and backend systems**.
 
-My expertise spans the full stack: from **N3-level systems administration** and database optimization to **building ML models and AI agents** for production environments. I architect solutions that merge operational rigor with intelligent systems.
+My experience spans the entire stack: from **N3 infrastructure management** and database optimization to **building machine learning models and AI agents** for production environments. I have designed solutions that combine operational rigor with intelligent systems.
 
-**Current focus:** Developing AI pipelines and models—from unsupervised learning to agent-based architectures—leveraging strong foundations in backend engineering, cloud infrastructure, and data systems.
+**Current focus:** Developing AI pipelines and models, from machine learning to agent-based AI architectures, leveraging a strong foundation in backend development, cloud infrastructure, and data systems.
 
-I'm designing a deep-tech AI startup while remaining open to high-impact engineering or consulting roles.
-
+I am building a high-tech AI startup and am open to high-impact engineering or consulting positions.
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Skills
@@ -58,10 +57,13 @@ I'm designing a deep-tech AI startup while remaining open to high-impact enginee
 
 ## 🚀 Selected Work
 
-**Unsupervised ML Model** • Clustering analysis for operational insights and anomaly detection  
-**Backend APIs** • RESTful services with authentication, database integration, and cloud deployment  
-**Infrastructure Automation** • Production-ready scripts and tools for system optimization  
-**Data Pipelines** • End-to-end processing and analysis of operational datasets
+**Unsupervised Machine Learning Model** • Cluster analysis to gain operational insights and detect anomalies in Level 3 incidents.
+
+**Backend API** • RESTful services with authentication, database integration, and Dockerization.
+
+**Infrastructure Automation** • Production-ready scripts and tools for operational optimization.
+
+**Data Pipelines** • Comprehensive processing and analysis of operational datasets.
 
 ---
 

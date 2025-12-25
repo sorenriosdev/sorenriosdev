@@ -10,7 +10,7 @@
 
 ---
 
-##:earth_americas: About me
+## :earth_americas: About me
 
 I am a computer engineer with experience in **infrastructure, AI development, and backend systems**.
 

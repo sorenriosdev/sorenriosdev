@@ -17,7 +17,6 @@ I am a computer engineer with experience in **infrastructure, AI development, an
 My experience spans the entire stack: from **N3 infrastructure management** and database optimization to **building machine learning models and AI agents** for production environments. I have designed solutions that combine operational rigor with intelligent systems.
 
 **Current focus:** Developing AI pipelines and models, from machine learning to agent-based AI architectures, leveraging a strong foundation in backend development, cloud infrastructure, and data systems.
-
 I am building a high-tech AI startup and am open to high-impact engineering or consulting positions.
 ---
 

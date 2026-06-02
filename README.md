@@ -78,8 +78,8 @@ Auth flows, database integration, and full containerization. Built for reliabili
 Production-ready tooling for N3-level operational optimization. Scripts, pipelines, orchestration.  
 `Bash` · `Terraform` · `Kubernetes`
 
-**Planes de Gobierno PE — Civic Tech**  
-Plataforma sin fines de lucro que consolidó y publicó en abierto los planes de gobierno de todos los candidatos a las elecciones peruanas del 12 de abril. Repositorio open source, legible, buscable.  
+**PE Government Plans — Civic Tech**  
+A non-profit platform that consolidated and publicly published the government plans of all candidates in the Peruvian elections of April 12. An open-source, readable, and searchable repository.  
 `Civic Tech` · `Open Source` · `Non-profit`
 
 ---

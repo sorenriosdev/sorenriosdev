@@ -89,4 +89,4 @@ Plataforma sin fines de lucro que consolidó y publicó en abierto los planes de
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soren-rios-bb191923a/)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=sorenriosdev&color=555&style=flat-square&label=views)
+<img src="https://komarev.com/ghpvc/?username=sorenriosdev&style=flat-square&label=Profile+Views">

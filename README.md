@@ -1,92 +1,73 @@
-<div align="left">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v0.5/m/hero_dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/v0.5/m/hero_light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/v0.5/hero_dark.svg">
+  <img src="assets/v0.5/hero_light.svg" alt="Soren Rios, AI Engineer building applied AI." width="100%">
+</picture>
 
-<h1>Soren Rios</h1>
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v0.5/m/quote_dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/v0.5/m/quote_light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/v0.5/quote_dark.svg">
+  <img src="assets/v0.5/quote_light.svg" alt="We can only see a short distance ahead, but we can see plenty there that needs to be done. Alan Turing" width="100%">
+</picture>
 
-<p>
-  <img src="https://img.shields.io/badge/AI · DevOps & MLOps · Infrastructure · RPA-1a1b27?style=flat-square&logoColor=white" alt="roles"/>
-</p>
+<h3><picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v0.5/m/h_about_dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/v0.5/m/h_about_light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/v0.5/h_about_dark.svg">
+  <img src="assets/v0.5/h_about_light.svg" alt="About" width="100%">
+</picture></h3>
 
-<p>
-  <img src="https://img.shields.io/badge/AZ--900-Certified-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI--900-Certified-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open_to_consulting-555?style=flat-square"/>
-</p>
+That line is the closest thing I have to a method. I don't need the whole map; I need to see what is obviously missing and begin. I came to AI engineering through operations, data and automation, running critical systems in production, so I build AI to be trustworthy before it is impressive. The civic tech project below started the same way: it was useful, so I built it and published it.
 
-</div>
+<h3><picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v0.5/m/h_stack_dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/v0.5/m/h_stack_light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/v0.5/h_stack_dark.svg">
+  <img src="assets/v0.5/h_stack_light.svg" alt="Stack" width="100%">
+</picture></h3>
 
-> *"We can only see a short distance ahead, but we can see plenty there that needs to be done"*
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v0.5/m/stack_dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/v0.5/m/stack_light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/v0.5/stack_dark.svg">
+  <img src="assets/v0.5/stack_light.svg" alt="Stack: Python, Go, PostgreSQL, Scikit-learn, Databricks, Docker, Azure, GCP. Certifications: AZ-900 Azure Fundamentals, AI-900 Azure AI Fundamentals." width="100%">
+</picture>
 
----
+<h3><picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v0.5/m/h_work_dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/v0.5/m/h_work_light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/v0.5/h_work_dark.svg">
+  <img src="assets/v0.5/h_work_light.svg" alt="Selected work" width="100%">
+</picture></h3>
 
-### About
+<a href="https://github.com/sorenriosdev/planes-gobierno-pe-2026"><picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v0.5/m/card_votoclaro_dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/v0.5/m/card_votoclaro_light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/v0.5/card_votoclaro_dark.svg">
+  <img src="assets/v0.5/card_votoclaro_light.svg" alt="VotoClaro: civic web platform where LLM agents analyze the government plans of Peru's April 12 elections. The dataset is open source on GitHub; the app is not. View dataset on GitHub." width="100%">
+</picture></a>
 
-A computer engineer dedicated to transforming AI concepts into applied software. My daily work focuses on managing critical infrastructure and automating complex processes, bringing that same operational rigor to my independent and open-source projects. Ultimately, I research, develop, and maintain systems to influence how technology shapes our environment.
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v0.5/m/card_incident_dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/v0.5/m/card_incident_light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/v0.5/card_incident_dark.svg">
+  <img src="assets/v0.5/card_incident_light.svg" alt="Incident Intelligence: unsupervised clustering and an LLM pipeline that categorize Level 3 incidents, plus a multi-agent system designed for an internal hackathon. Private work, not open source." width="100%">
+</picture>
 
----
+<h3><picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v0.5/m/h_contact_dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/v0.5/m/h_contact_light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/v0.5/h_contact_dark.svg">
+  <img src="assets/v0.5/h_contact_light.svg" alt="Contact" width="100%">
+</picture></h3>
 
-### Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-
-**AI & Data Science**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Automation & Backend**
-
-![RPA](https://img.shields.io/badge/RPA-FF6600?style=flat-square&logo=uipath&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**Cloud, MLOps & Infra**
-
-![Linux](https://img.shields.io/badge/Linux_N3-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
----
-
-### Selected Work
-
-**Unsupervised ML Model — Anomaly Detection**  
-Cluster analysis over Level 3 incident data. Surfaced operational patterns invisible to traditional monitoring.  
-`Scikit-learn` · `Pandas` · `Unsupervised`
-
-**RPA Implementations**  
-End-to-end process automation for high-volume operational workflows. Reducing human friction where it hurts most.  
-`RPA` · `Python` · `Automation`
-
-**Backend API — Production REST Services**  
-Auth flows, database integration, and full containerization. Built for reliability over speed.  
-`Spring Boot` · `Docker` · `PostgreSQL`
-
-**Infrastructure Automation**  
-Production-ready tooling for N3-level operational optimization. Scripts, pipelines, orchestration.  
-`Bash` · `Terraform` · `Kubernetes`
-
-**PE Government Plans — Civic Tech**  
-A non-profit platform that consolidated and publicly published the government plans of all candidates in the Peruvian elections of April 12. An open-source, readable, and searchable repository.  
-`Civic Tech` · `Open Source` · `Non-profit`
-
----
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soren-rios-bb191923a/)
-
-
-<img src="https://komarev.com/ghpvc/?username=sorenriosdev&style=flat-square&label=Profile+Views">
+<a href="https://www.linkedin.com/in/soren-rios-bb191923a/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/v0.5/pill_linkedin_dark.svg">
+  <img src="assets/v0.5/pill_linkedin_light.svg" alt="LinkedIn profile">
+</picture></a>
+<a href="https://x.com/sorenriosrm"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/v0.5/pill_x_dark.svg">
+  <img src="assets/v0.5/pill_x_light.svg" alt="X profile">
+</picture></a>

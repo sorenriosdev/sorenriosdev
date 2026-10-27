@@ -42,12 +42,14 @@ That line is the closest thing I have to a method. I don't need the whole map; I
   <img src="assets/v0.5/h_work_light.svg" alt="Selected work" width="100%">
 </picture></h3>
 
-<a href="https://github.com/sorenriosdev/planes-gobierno-pe-2026"><picture>
+<a href="https://github.com/sorenriosdev/planes-gobierno-pe-2026">
+<picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v0.5/m/card_votoclaro_dark.svg">
   <source media="(max-width: 600px)" srcset="assets/v0.5/m/card_votoclaro_light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/v0.5/card_votoclaro_dark.svg">
   <img src="assets/v0.5/card_votoclaro_light.svg" alt="VotoClaro: civic web platform where LLM agents analyze the government plans of Peru's April 12 elections. The dataset is open source on GitHub; the app is not. View dataset on GitHub." width="100%">
-</picture></a>
+</picture>
+</a>
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v0.5/m/card_incident_dark.svg">
@@ -63,11 +65,15 @@ That line is the closest thing I have to a method. I don't need the whole map; I
   <img src="assets/v0.5/h_contact_light.svg" alt="Contact" width="100%">
 </picture></h3>
 
-<a href="https://www.linkedin.com/in/soren-rios-bb191923a/"><picture>
+<a href="https://www.linkedin.com/in/soren-rios-bb191923a/">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/v0.5/pill_linkedin_dark.svg">
   <img src="assets/v0.5/pill_linkedin_light.svg" alt="LinkedIn profile">
-</picture></a>
-<a href="https://x.com/sorenriosrm"><picture>
+</picture>
+</a>
+<a href="https://x.com/sorenriosrm">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/v0.5/pill_x_dark.svg">
   <img src="assets/v0.5/pill_x_light.svg" alt="X profile">
-</picture></a>
+</picture>
+</a>

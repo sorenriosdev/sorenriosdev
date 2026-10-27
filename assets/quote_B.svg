@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-label="We can only see a short distance ahead, but we can see plenty there that needs to be done. Alan Turing">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0d12"/>
+      <stop offset="1" stop-color="#151922"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" rx="18" fill="url(#bg)"/>
+  <text x="48" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="120" fill="#6ea8ff" fill-opacity="0.28">&#8220;</text>
+  <text font-family="-apple-system, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="500" fill="#f5f5f7">
+    <tspan x="112" y="78">We can only see a short distance ahead,</tspan>
+    <tspan x="112" y="112">but we can see plenty there that needs to be done.</tspan>
+  </text>
+  <text x="112" y="146" font-family="-apple-system, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#a1a1a6" letter-spacing="0.5">ALAN TURING</text>
+</svg>
